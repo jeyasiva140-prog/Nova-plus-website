@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NovaPulse Login — React + Express
 
 A responsive, original login experience built with React, Vite, Express, and CSS. The Express API checks mock credentials and serves the production frontend from the same service.
@@ -86,3 +87,6 @@ You can override the demo account in the Render environment settings:
 - `DEMO_PASSWORD`
 
 For a real application, replace the mock login with a secure authentication provider, password hashing, rate limiting, HTTPS-only cookies, CSRF protection, and server-side sessions.
+=======
+# Nova-plus-website
+>>>>>>> f1639c0655e171eefbda998c696be973d78f99d4
